@@ -3,4 +3,4 @@
 	url = https://louderthan10@github.com/louderthanten/Font-Testing-Page.git
 [submodule "public/colour"]
 	path = public/colour
-	url = https://github.com/cloudflare/color.git
+	url = https://louderthan10@github.com/louderthanten/color.git
